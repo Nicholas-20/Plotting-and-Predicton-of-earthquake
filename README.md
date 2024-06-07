@@ -1,0 +1,1 @@
+# Plotting-and-Predicton-of-earthquake
